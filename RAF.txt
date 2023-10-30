@@ -1,0 +1,6 @@
+Reste à faire : 
+
+Une belle Javadoc
+Des vérifications supplémentaires avant l'ajout en base de données
+Des vérifications sur les liaisons inter - classes avant l'ajout en base de données
+Des vérifications sur les liaisons inter - classes après l'ajout en base de données
